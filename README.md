@@ -1,4 +1,4 @@
-## **CySeck's Cybersecurity Finishing School program - Projects and walkthrough**
+## **CySeck's Cybersecurity Finishing School program - Projects and walkthroughs**
 
 
 This repository represents my hands-on work completed during an intensive, domain-focused **CySeck's Cybersecurity Finishing School program**.  
