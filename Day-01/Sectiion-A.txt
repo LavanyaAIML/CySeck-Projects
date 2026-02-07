@@ -1,1 +1,31 @@
 
+1. Define Cybersecurity
+>Cybersecurity is the practice of protecting systems, networks, applications, and data from unauthorized access, attacks, damage, or disruption.
+
+2. What is an Asset in cybersecurity?
+>An asset is anything of value that needs protection, such as data, systems, applications, hardware, software, or network resources.
+
+3. What is a Threat?
+>A threat is a potential cause of an unwanted incident that may harm a system or organization, such as malware, hackers, insider misuse, or natural disasters.
+
+4. What is a Vulnerability?
+>A vulnerability is a weakness in a system, software, configuration, or process that can be exploited by a threat.
+
+5. What is Risk?
+>Risk is the possibility of loss or damage when a threat exploits a vulnerability.
+Risk = Threat × Vulnerability × Impact
+
+6. Expand CIA Triad
+>Confidentiality, Integrity, Availability
+
+7. What is CVE?
+>CVE (Common Vulnerabilities and Exposures) is a standardized identifier for publicly known cybersecurity vulnerabilities.
+
+8. What is CVSS?
+>CVSS (Common Vulnerability Scoring System) is a numerical scoring system used to assess the severity of vulnerabilities.
+
+9. What is a Security Control?
+>A security control is a safeguard or countermeasure designed to reduce risk, such as firewalls, authentication, encryption, or policies.
+
+10. What is a Framework?
+>A framework is a structured set of guidelines and best practices used to manage cybersecurity risks effectively.
