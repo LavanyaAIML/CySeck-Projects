@@ -1,1 +1,17 @@
+Scenario 1
+-----------
+Scenario: An employee uses weak passwords.
+   Threat: Brute-force attack
+   Vulnerability: Weak password
+   Risk: Unauthorized access to systems
+   Control: Strong password policy, MFA
 
+
+
+Scenario 2
+-----------
+Scenario: A server is not patched regularly.
+   Threat: Malware exploitation
+   Vulnerability: Unpatched software
+   Risk: System compromise
+   Control: Regular patch management
