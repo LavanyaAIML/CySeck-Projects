@@ -1,1 +1,29 @@
+11. Explain CIA Triad with real-life examples
+Confidentiality:
+Protecting sensitive data from unauthorized access.
+Example: Password-protected bank accounts.
+Integrity:
+Ensuring data remains accurate and unaltered.
+Example: Hash verification of downloaded software.
+Availability:
+Ensuring systems and services are accessible when needed.
+Example: Backup servers during system failure.
 
+
+12. Differentiate between Threat, Vulnerability, and Risk
+Term	Explanation	Example
+Threat	Potential danger	Hacker
+Vulnerability	Weakness	Weak password
+Risk	Impact if exploited	Account compromise
+
+
+13. Why are cybersecurity frameworks important?
+Frameworks provide a standardized approach to identifying, managing, and reducing cybersecurity risks. They help organizations follow best practices, ensure compliance, and improve security posture.
+
+
+14. Explain NIST NICE Framework
+The NIST NICE Framework categorizes cybersecurity roles, skills, and tasks. It helps individuals understand career paths and helps organizations define cybersecurity job roles clearly.
+
+
+15. How does CVSS help organizations?
+CVSS helps organizations prioritize vulnerabilities by severity, allowing them to focus on fixing the most critical issues first.
